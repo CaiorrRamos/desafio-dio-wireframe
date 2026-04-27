@@ -120,7 +120,7 @@ Essa combinação fortalece a percepção de valor e profissionalismo.
 
 ### Preview da Landing Page
 
-![Wireframe do Projeto](./images/wireframe-preview.png)
+![Wireframe do Projeto](/wireframe-preview)
 
 ---
 
