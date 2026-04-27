@@ -122,8 +122,6 @@ Essa combinação fortalece a percepção de valor e profissionalismo.
 
 ![Wireframe do Projeto](./images/wireframe-preview.png)
 
-> Caso a imagem não apareça, adicione a captura de tela dentro da pasta `/images` com o nome `wireframe-preview.png`
-
 ---
 
 ## 🚀 Estrutura da Página
